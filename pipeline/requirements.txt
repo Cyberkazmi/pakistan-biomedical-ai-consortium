@@ -1,0 +1,9 @@
+cellpose>=3.0
+ultrack>=0.6
+numpy
+pandas
+pyarrow
+scikit-image
+scikit-learn
+zarr
+tifffile
